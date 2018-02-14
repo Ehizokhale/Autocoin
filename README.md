@@ -1,0 +1,2 @@
+# Autocoin
+Crypto
